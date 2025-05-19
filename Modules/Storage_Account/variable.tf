@@ -1,0 +1,1 @@
+variable "Storage_Account_Name_Module" {}

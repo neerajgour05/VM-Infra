@@ -1,0 +1,1 @@
+variable "RG_Name_module" {}
