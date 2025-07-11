@@ -3,6 +3,11 @@ RG_Name = {
     name     = "dhondu_RG"
     location = "East US"
   }
+
+   "RG_Name2" = {
+    name     = "dhondu_RG1"
+    location = "East US"
+  }
 }
 
 Storage_Account_Name = {
