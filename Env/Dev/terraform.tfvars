@@ -4,9 +4,9 @@ RG_Name = {
     location = "East US"
   }
 
-   "RG_Name2" = {
-    name     = "dhondu_RG1"
-    location = "East US"
+   "RG_Name3" = {
+    name     = "dhondu_RG2"
+    location = "centralindia"
   }
 }
 
